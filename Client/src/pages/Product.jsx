@@ -125,7 +125,7 @@ const Product = () => {
           <FilterContainer>
             <Filter>
               <FilterTitle>Color:</FilterTitle>
-              <FilterColor style={{ border: "1px solid #fff" }} color="black" />
+              <FilterColor style={{ border: "1px solid #fff" }} color="black"/>
               <FilterColor color="#878681" />
               <FilterColor color="gold" />
               <FilterColor color="red" />
